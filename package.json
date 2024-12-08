@@ -15,5 +15,9 @@
     "nuxt": "^3.14.1592",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "engines": {
+    "node": "20.9.0",
+    "npm": "10.9.0"
   }
 }
